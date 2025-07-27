@@ -7,6 +7,7 @@ This directory contains specialized Claude coding sub-agents for various program
 - `spec-writer/` - Agent for writing technical specifications and documentation
 - `code-reviewer/` - Agent for reviewing code quality and best practices
 - `test-generator/` - Agent for generating comprehensive test suites
+- `frontend-developer/` - Agent for building React components, responsive layouts, and frontend optimization
 - `refactoring-specialist/` - Agent for code refactoring and optimization
 - `api-designer/` - Agent for designing REST APIs and interfaces
 - `database-architect/` - Agent for database design and optimization
