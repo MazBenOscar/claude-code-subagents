@@ -8,6 +8,7 @@ This directory contains specialized Claude coding sub-agents for various program
 - `code-reviewer/` - Agent for reviewing code quality and best practices
 - `test-generator/` - Agent for generating comprehensive test suites
 - `frontend-developer/` - Agent for building React components, responsive layouts, and frontend optimization
+- `frontend-shadcn-mcp/` - Specialized frontend agent with shadcn/ui v4 MCP server integration for modern, accessible UI development
 - `refactoring-specialist/` - Agent for code refactoring and optimization
 - `api-designer/` - Agent for designing REST APIs and interfaces
 - `database-optimizer/` - Agent for database design and optimization
