@@ -9,6 +9,7 @@ This directory contains specialized Claude coding sub-agents for various program
 - `test-generator/` - Agent for generating comprehensive test suites
 - `frontend-developer/` - Agent for building React components, responsive layouts, and frontend optimization
 - `frontend-shadcn-mcp/` - Specialized frontend agent with shadcn/ui v4 MCP server integration for modern, accessible UI development
+- `product-strategist/` - Expert product strategist and requirements architect for comprehensive SaaS strategy, market research, user analysis, and creating decision-ready BRDs and PRDs
 - `refactoring-specialist/` - Agent for code refactoring and optimization
 - `api-designer/` - Agent for designing REST APIs and interfaces
 - `database-optimizer/` - Agent for database design and optimization
@@ -18,7 +19,6 @@ This directory contains specialized Claude coding sub-agents for various program
 ## Usage
 
 Each agent subdirectory contains:
-
 - A detailed README explaining the agent's purpose and capabilities
 - Configuration files and prompts
 - Example usage and best practices
