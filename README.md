@@ -26,6 +26,9 @@ Each agent directory contains everything you need: configuration files, usage ex
 
 ## Available Sub-Agents
 
+### Meta & Architecture
+- **agent-architect**: Designs and generates complete Claude Code sub-agent configurations with architectural best practices
+
 ### Core Development Agents
 - **spec-writer**: Creates comprehensive technical specifications and documentation
 - **api-designer**: Designs REST APIs, GraphQL schemas, and service interfaces
@@ -33,9 +36,12 @@ Each agent directory contains everything you need: configuration files, usage ex
 - **code-reviewer**: Performs thorough code reviews with best practices and suggestions
 - **test-generator**: Creates comprehensive test suites and quality assurance workflows
 
+### Business & Strategy
+- **product-strategist**: Expert strategist for SaaS development, market research, and creating decision-ready BRDs and PRDs
+
 ### Extended Capabilities
 - **refactoring-specialist**: Modernizes codebases and improves architecture
-- **database-architect**: Designs efficient database schemas and queries
+- **database-optimizer**: Designs efficient database schemas and queries
 - **deployment-engineer**: Handles CI/CD, containerization, and infrastructure
 - **security-auditor**: Identifies vulnerabilities and implements security best practices
 
